@@ -1,7 +1,7 @@
 
-# Example
+# How to write a super README file
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License: MIT](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 ## Table of Contents
 - [Project Description](#description)
@@ -13,25 +13,25 @@
 - [Tests](#tests)
 
 ## Description
-Example
+In this section you may explain what your application does, why you used the technologies you used and some of the challenges you faced and features you hope to implement in the future.
 
 ## Usage
-Example
+Provide instructions and examples so users/contributors can use the project.
 
 ## Contributing 
-Example
+If you worked on the project as a team or an organization, list your collaborators/ team members.
 
 ## Installation
-Example
+If you are working on a project that a user needs to install or run locally in a machine like a POS, you should include the steps required to install your project.
 
 ## Questions
 You may send me an email or reach me out through github using the follow links:  
-[Email Adress](Example)  
-[Github page](https://github.com/Example)
+[Email Adress](moises.perezr@hotmail.com)  
+[Github page](https://github.com/MoisesPerez90)
 
 ## License
-Licensed under the [ISC](https://choosealicense.com/licenses/isc/) license;
+Licensed under the [GNUGPLv3](https://choosealicense.com/licenses/gpl-3.0/) license;
 
 ## Tests
-Example
+Go te extra mile and write tests for your application. Then provide code examples and how to run them.
     
